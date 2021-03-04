@@ -12,11 +12,9 @@ A ideia do projeto consiste em apresentar um layout e os alunos devem desenvolv√
 ![Web2](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-quartos-estilizada.jpeg)
 
 # Tecnologias utilizadas
-
 - HTML
 - CSS (Flexbox)
 
 # Como executar o projeto
-
 - ```#git clone https://github.com/thaylorcs/devmedia-pousada.git```
 - Abrir no seu browser preferido
