@@ -6,3 +6,14 @@ A pousada secreta é um projeto prático da plataforma [DevMedia](https://www.de
 A ideia do projeto consiste em apresentar um layout e os alunos devem desenvolvê-lo utilizando os conteúdos aprendidos nas trilhas de [HTML](https://www.devmedia.com.br/html/) e [CSS](https://www.devmedia.com.br/css/)
 
 ## Layout Web
+![Web1](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-principal-estilizada.jpeg)
+
+# Tecnologias utilizadas
+
+- HTML
+- CSS (Flexbox)
+
+# Como executar o projeto
+
+- ```#git clone https://github.com/thaylorcs/devmedia-pousada.git```
+- Abrir no seu browser preferido
