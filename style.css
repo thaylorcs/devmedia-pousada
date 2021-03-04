@@ -22,7 +22,6 @@
 .topo {
     display: flex;
     justify-content: space-evenly;
-    max-width: 95%;
 }
 
 .topo a {
@@ -191,10 +190,62 @@ header {
 
 .contato-card img {
     width: 30px;
+
 }
 
 .contato-card p {
     display: inline;
     margin-left: 10px;
     line-height: 20px;
+}
+
+/* Página Quartos */
+
+.destaque-quartos {
+    height: 100px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.main-rooms {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+}
+
+.single-rooms,
+.family-rooms {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rooms-pictures{
+    display: flex;
+}
+
+.rooms-pictures img {
+    width: 275px;
+    margin: 5px;
+}
+
+.room-info {
+    display: flex;
+    justify-content: center;
+    max-width: 95%;
+}
+
+.room-details {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    max-width: 70%;
+}
+
+.room-details li {
+    margin: 10px;
+    line-height: 35px;
+    width: 210px;
 }
