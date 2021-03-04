@@ -236,12 +236,19 @@ header {
     max-width: 95%;
 }
 
+.room-info-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 30px;
+}
+
 .room-details {
     align-items: center;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
     max-width: 70%;
+    margin-bottom: 30px;
 }
 
 .room-details li {
