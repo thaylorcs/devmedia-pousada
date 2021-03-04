@@ -7,7 +7,7 @@ A ideia do projeto consiste em apresentar um layout e os alunos devem desenvolv√
 
 ## Layout Web
 ![Web1](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-principal-estilizada.jpeg)
-
+![Web2](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-quartos-estilizada.jpeg)
 # Tecnologias utilizadas
 
 - HTML
