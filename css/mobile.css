@@ -6,11 +6,7 @@
     .topo nav {
         display: none;
     }
-
-    .destaque {
-        /* height: 100vh; */
-    }
-
+    
     .destaque-conteudo {        
         justify-content: space-evenly;
         height: calc(90vh - 10%);
