@@ -40,7 +40,7 @@ header {
 }
 
 .destaque {
-    background-image: url('/assets/img-fundo.jpg');
+    background-image: url('assets/img-fundo.jpg');
     color: white;
     display: flex;
     flex-flow: column nowrap;
