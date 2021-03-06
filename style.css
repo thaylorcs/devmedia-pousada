@@ -126,9 +126,9 @@ header {
 }
 
 .sobre {
+    align-items: space-evenly;
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .sobre-cards {
