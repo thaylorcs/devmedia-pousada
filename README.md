@@ -8,6 +8,9 @@ A ideia do projeto consiste em apresentar um layout e os alunos devem desenvolv�
 ## Layout Web Página Inicial
 ![Web1](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-principal-estilizada.jpeg)
 
+## Layout Mobile Página Inicial (extra)
+![Mobile1](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-principal-mobile.jpeg)
+
 ## Layout Web Página Quartos
 ![Web2](https://github.com/thaylorcs/devmedia-pousada/blob/main/assets/layouts/layout-pagina-quartos-estilizada.jpeg)
 
