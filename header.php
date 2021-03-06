@@ -9,18 +9,19 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap"
         rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mobile.css">
 </head>
 
 <body>
     <header>
         <div class="topo">
-            <a href="index.html">Pousada Secreta</a>
+            <a href="index.php">Pousada Secreta</a>
 
             <nav>
                 <ul id="menu-topo">
-                    <li><a href="#sobre">Sobre</a></li>
-                    <li><a href="#rota">Rota</a></li>
+                    <li><a href="index.php#sobre">Sobre</a></li>
+                    <li><a href="index.php#rota">Rota</a></li>
                     <li><a href="quartos.php">Quartos</a></li>
                 </ul>
             </nav>
