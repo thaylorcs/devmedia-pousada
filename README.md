@@ -19,6 +19,7 @@ Com um pouco de conhecimento que eu já possuía em PHP, eu separei os conteúdo
 # Tecnologias utilizadas
 - HTML
 - CSS (Flexbox)
+- PHP (básico) apenas para não ficar repetindo o código do header e do footer em outras páginas
 
 # Como executar o projeto
 - Instale o xampp
