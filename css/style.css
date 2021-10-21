@@ -1,10 +1,23 @@
 /*Reset CSS*/
 
+:root {
+    --bg-color: #fff;
+    --destaque-bg-color: rgba(34, 166, 142, .7);
+    --primary-text-color: #000;
+    --white-text: #fff;
+    --gray-text: lightslategray;
+}
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Source Sans Pro", sans-serif;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--primary-text-color);
 }
 
 /*Configurações auxiliares*/
@@ -20,14 +33,15 @@
 }
 
 .topo {
+    align-items: center;
     display: flex;
     justify-content: space-evenly;
 }
 
 .topo a {
+    color: var(--gray-text);
     text-decoration: none;
     text-transform: uppercase;
-    color: lightslategray
 }
 
 header {
@@ -59,7 +73,7 @@ header {
 
 .destaque-conteudo {
     align-items: center;
-   background-color: rgba(34, 166, 142, .7);
+   background-color: var(--destaque-bg-color);
    border: 1px solid white;
    border-radius: 3px;
    display: flex;
@@ -255,4 +269,12 @@ header {
     margin: 10px;
     line-height: 35px;
     width: 210px;
+}
+
+.dark-mode {
+    --bg-color: #3e4c59;
+    --destaque-bg-color: rgba(34, 166, 142, .7);
+    --primary-text-color: #fff;
+    --white-text: #000;
+    --gray-text: #c0c0c0;
 }
